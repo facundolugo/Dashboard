@@ -1,0 +1,31 @@
+ID Venta,Producto Vendido,Monto ($),Fecha,Estado Cliente
+1001,Pizza Muzzarella,12000,25/06/2025,Contento
+1002,Pizza Napolitana,13500,25/06/2025,Contento
+1003,Pizza Jamón y Morrón,14000,25/06/2025,Contento
+1004,Pizza Especial,16000,25/06/2025,Contento
+1005,Pizza Muzzarella,12000,25/06/2025,No contento
+1006,Pizza Napolitana,13500,25/06/2025,Contento
+1007,Pizza Jamón y Morrón,14000,25/06/2025,Contento
+1008,Pizza Especial,16000,25/06/2025,Contento
+1009,Pizza Muzzarella,12000,26/06/2025,Contento
+1010,Pizza Napolitana,13500,26/06/2025,Contento
+1011,Pizza Jamón y Morrón,14000,26/06/2025,No contento
+1012,Pizza Especial,16000,26/06/2025,Contento
+1013,Pizza Muzzarella,12000,26/06/2025,Contento
+1014,Pizza Napolitana,13500,26/06/2025,Contento
+1015,Pizza Jamón y Morrón,14000,26/06/2025,Contento
+1016,Pizza Especial,16000,26/06/2025,Contento
+1017,Pizza Muzzarella,12000,27/06/2025,Contento
+1018,Pizza Napolitana,13500,27/06/2025,No contento
+1019,Pizza Jamón y Morrón,14000,27/06/2025,Contento
+1020,Pizza Especial,16000,27/06/2025,Contento
+1021,Pizza Muzzarella,12000,27/06/2025,Contento
+1022,Pizza Napolitana,13500,27/06/2025,No contento
+1023,Pizza Jamón y Morrón,14000,27/06/2025,Contento
+1024,Pizza Especial,16000,27/06/2025,Contento
+1025,Pizza Muzzarella,12000,28/06/2025,Contento
+1026,Pizza Napolitana,13500,28/06/2025,Contento
+1027,Pizza Jamón y Morrón,14000,28/06/2025,Contento
+1028,Pizza Especial,16000,28/06/2025,No contento
+1029,Pizza Muzzarella,12000,28/06/2025,Contento
+1030,Pizza Napolitana,13500,28/06/2025,No contento
