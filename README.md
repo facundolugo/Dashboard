@@ -1,4 +1,4 @@
-Storytelling: El Propósito de "El Horno al Día"
+Storytelling: "El Horno al Día"
 
 Este tablero es el cerebro de nuestra pizzería. Nos va a mostrar rápido cómo va el negocio. La idea es simple: ver los números clave para que podamos decidir mejor y seguir creciendo.
 Acá vamos a ver cuáles son las pizzas que más salen, las que la gente pide una y otra vez. Así sabemos dónde ponerle más fichas y qué ingredientes no pueden faltar. También te mostramos cuántas pizzas vendimos en total y cuánta plata entró.
