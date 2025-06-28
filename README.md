@@ -7,8 +7,11 @@ Y porque lo más importante es que nuestros clientes se vayan felices, también 
 Características Principales:
 
 KPIs Clave: Visualización rápida del número total de ventas, el monto total recaudado y el porcentaje de clientes satisfechos.
+
 Pizzas Más Vendidas: Gráfico de barras que muestra los productos más populares.
+
 Satisfacción del Cliente: Gráfico de torta que ilustra la proporción de clientes contentos y no contentos.
+
 Navegación Intuitiva: Interfaz de usuario organizada con pestañas para el dashboard principal y la sección de storytelling.
 
 
