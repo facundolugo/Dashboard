@@ -15,8 +15,12 @@ Navegación Intuitiva: Interfaz de usuario organizada con pestañas para el dash
 Este dashboard fue construido utilizando el lenguaje de programación R y las siguientes librerías:
 
 shiny: Para la creación de aplicaciones web interactivas.
+
 shinydashboard: Para el diseño y estructura de dashboards modernos.
-ggplot2: Para la creación de gráficos estadísticos de alta calidad.
+
+ggplot2: Para la creación de gráficos estadísticos de alta calidad-
+
 dplyr: Para la manipulación y transformación eficiente de datos.
+
 readr: Para la lectura rápida y sencilla de archivos de datos (ej. CSV).
 
