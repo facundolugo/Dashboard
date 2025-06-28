@@ -4,6 +4,7 @@ Este tablero es el cerebro de nuestra pizzería. Nos va a mostrar rápido cómo 
 Acá vamos a ver cuáles son las pizzas que más salen, las que la gente pide una y otra vez. Así sabemos dónde ponerle más fichas y qué ingredientes no pueden faltar. También te mostramos cuántas pizzas vendimos en total y cuánta plata entró.
 Y porque lo más importante es que nuestros clientes se vayan felices, también te mostraremos qué tan contenta está la gente. Veremos un resumen simple de cuántos clientes están satisfechos y cuántos no.
 
+_________________________________________________________
 Características Principales:
 
 KPIs Clave: Visualización rápida del número total de ventas, el monto total recaudado y el porcentaje de clientes satisfechos.
@@ -14,7 +15,7 @@ Satisfacción del Cliente: Gráfico de torta que ilustra la proporción de clien
 
 Navegación Intuitiva: Interfaz de usuario organizada con pestañas para el dashboard principal y la sección de storytelling.
 
-
+_________________________________________________________
 Este dashboard fue construido utilizando el lenguaje de programación R y las siguientes librerías:
 
 shiny: Para la creación de aplicaciones web interactivas.
